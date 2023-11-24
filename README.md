@@ -1,2 +1,2 @@
 # Weather-Prediction
-Weather Prediction model that is done by using Machine Learning and got data set from ncdc.noaa.gov/cdo-web/search website. This project uses Ridge Regression model to predict the weather temperate with minimum differnece from the Actual Temperature.
+The weather Prediction model was done using Machine Learning and got a dataset of location Bangalore from the ncdc.noaa.gov/cdo-web/search website. This project uses the Ridge Regression model to predict the weather temperature with a minimum difference from the Actual Temperature.
